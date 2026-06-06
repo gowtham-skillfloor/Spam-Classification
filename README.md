@@ -13,3 +13,5 @@ The model could be deployed in cloud environment.
 More data could be collected to improve the performance of the model.
 
 The classification accuracy was **92%**
+
+Edited locally.
